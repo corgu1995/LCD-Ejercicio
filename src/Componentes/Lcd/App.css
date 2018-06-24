@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.tabla{
+  width: 100%;
+  padding: 40px;
+}
+
+th{
+  font-size: 2.7em;
+  width: 50%;
+  color: #5AB7DE;
+}
+
+
+.borde{
+  border: 1px solid;
+  border-color: #646400;
+  border-radius: 10px;
+}
+
+.App-header {
+  background-color: #20b2aa;
+  height: 90px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.pre-style {
+  font: bold 20px Consolas, serif;
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  margin: 0;
+}

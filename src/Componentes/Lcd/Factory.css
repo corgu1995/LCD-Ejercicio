@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+}
+
+.campoForm{
+    text-align: center;
+    width: 100%;
+    padding: 14px 80px;
+    margin: 20px 0;
+    display: block;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.campoArea{
+    text-align: center;
+    width: 100%;
+    padding: 14px 80px;
+    margin: 20px 0;
+    display: block;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-sizing: border-box;
+    font-family:  'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.tablaArt{
+  width: 90%;
+  text-align: center;
+}
+
+.texto{
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+tr{
+    width: 100%;
+}
